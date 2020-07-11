@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+- 🔭 前端开发程序员一只。95后，喜欢钻研一些的生态比较好或者比较有发展前景的技术
+- 🌱 技术栈是vue、react、uni-app、小程序……
+- 🤔 独立开发项目的经验占大多数。开发习惯严谨，注重可复用、可扩展、健壮性。如果实现一个逻辑的方法有100种，我一定会去研究，选择我认为最好的一种方法。
+- 😄 喜欢看日漫，喜欢蕾姆这个角色。bilibili~干杯
+- 📫 联系方式
+      
+| 邮箱 | qq | 其他 |
+| :----:| :----: | :----: |
+| webwork.s@qq.com | 370306150 | ... |
+- ⚡ 个人博客 [luch的个人博客](https://www.quanzhan.co)
+
+![luch 的博客网站logo](https://oss.quanzhan.co/images/common/qunzhan.co-site-logo.jpg "luch 的博客")
+
 <!--
 **lei-mu/lei-mu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
